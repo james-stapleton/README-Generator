@@ -25,12 +25,12 @@ function init() {
                 },
         ])
         .then((data) => {
-            const filename = `${data.title.toLowerCase().split(' ').join('')}.md`;
+            const filename = `${data.title.split(' ').join('')}.md`;
             const stringMD = 
             `## Title
-            ${data.title}
-            ## Description
-            ${data.description}`;
+${data.title}
+## Description
+${data.description}`;
             fs.writeFile(filename, stringMD, (err) => err ? console.log(err) : console.log('Success!'));
         })
 }
