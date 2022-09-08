@@ -70,6 +70,7 @@ function init() {
         .prompt(questions)
         .then((data) => {
             const filename = 'README.md';
+            generateMarkdown(data);
             fs.writeFile(filename, stringMD, (err) => err ? console.log(err) : console.log('Success!'));
         })
 }
