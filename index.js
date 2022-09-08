@@ -59,7 +59,13 @@ const questions = [{
     type: 'input',
     name: 'questions',
     message: 'What is the email I can reach you at with questions?',
-},];
+},
+{
+    type: 'input',
+    name: 'screenshot',
+    message: 'Enter the path to a screenshot showcasing your app: ',
+},
+];
 
 // TODO: Create a function to write README file
 async function writeToFile(fileName, data) {
