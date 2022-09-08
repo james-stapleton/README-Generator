@@ -24,15 +24,10 @@ const questions = [{
         name: 'usage',
         message: 'How do I use your app?',
     },
-    {
-    type: 'input',
-    name: 'title',
-    message: 'What is the title of your app?',
-},
 {
     type: 'input',
     name: 'credits',
-    message: 'Are there any collaborators?',
+    message: 'Who else has collaborated on this app?',
 },
 {
     type: 'list',
