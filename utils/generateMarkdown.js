@@ -69,6 +69,10 @@ ${data.description}
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Contribute](#contribute)
+- [Testing](#tests)
+- [Github](#github)
+- [Questions](#questions)
             
 ## Installation
             
@@ -84,7 +88,7 @@ ${data.credits}
                 
 ${renderLicenseSection(data.license)}
                         
-## How to Contribute
+## Contribute
 
 ${data.contribute}
             

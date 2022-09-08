@@ -1,10 +1,10 @@
-#   
-  ![Mozilla](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg);
+# t  
+  ![MIT](https://img.shields.io/apm/l/README?style=flat-square);
 
 
 ## Description 
 
-
+t
             
 ## Table of Contents 
             
@@ -12,36 +12,40 @@
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Contribute](#contribute)
+- [Testing](#tests)
+- [Github](#github)
+- [Questions](#questions)
             
 ## Installation
             
-
+t
             
 ## Usage
             
-
+t
             
 ## Credits
 
-
+t
                 
 ## License 
-  This project is being licensed under Mozilla. You can read the license here: https://opensource.org/licenses/MPL-2.0
+  This project is being licensed under MIT. You can read the license here: https://opensource.org/licenses/MIT
                         
-## How to Contribute
+## Contribute
 
-
+t
             
 ## Tests
             
-
+t
 
 ## GitHub
 
-[Github](https://github.com/)
+[Github](https://github.com/t)
             
 ## Questions
             
-If you have any questions, please email me at  with the subject ""
+If you have any questions, please email me at t with the subject "t"
             
 ## Screenshots
