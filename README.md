@@ -1,8 +1,10 @@
-# test
+# Professional README Generator  
+  ![MIT](https://img.shields.io/apm/l/README?style=flat-square);
+
 
 ## Description 
 
-test
+This app automatically creates and formats a clean, well-structured README for your projects. 
             
 ## Table of Contents 
             
@@ -13,38 +15,34 @@ test
             
 ## Installation
             
-test
+You run it on the command line.
             
 ## Usage
             
-test
+Answer these questions
             
 ## Credits
 
-test
+No
     
 ## License
             
-MIT
-            
-## Badges
-        
-
-  ![{license}](https://link to badge.png etc.)
-
-            
+This project is being licensed under MIT. You can read the license here: https://opensource.org/licenses/MIT
+                        
 ## How to Contribute
 
-test
-            
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+Contribute to this app by adding new licenses and badges
             
 ## Tests
             
-undefined
+I don't know enough about testing
+
+## GitHub
+
+[Github](https://github.com/james-stapleton)
             
 ## Questions
             
-test
+If you have any questions, please email me at jstapleton536 with the subject "Professional README Generator"
             
-5## Screenshots
+## Screenshots
