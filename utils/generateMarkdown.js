@@ -103,8 +103,6 @@ ${data.test}
 ## Questions
             
 If you have any questions, please email me at ${data.questions} with the subject "${data.title}"
-            
-## Screenshots
 `;
 }
 
