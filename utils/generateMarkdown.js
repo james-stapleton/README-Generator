@@ -41,7 +41,7 @@ function renderLicenseLink(license) {
         link = 'https://opensource.org/licenses/MPL-2.0';
         break;
     }
-    return `This project is being licensed under ${license}. You can read the license here: ${link}`;
+      return link;
   }
   else {
     return '';
@@ -51,7 +51,8 @@ function renderLicenseLink(license) {
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  return;
+  return `## License 
+  This project is being licensed under ${license}. You can read the license here: ${renderLicenseLink(license)}`;
 }
 
 // TODO: Create a function to generate markdown for README
@@ -80,10 +81,8 @@ ${data.usage}
 ## Credits
 
 ${data.credits}
-    
-## License
-            
-${renderLicenseLink(data.license)}
+                
+${renderLicenseSection(data.license)}
                         
 ## How to Contribute
 

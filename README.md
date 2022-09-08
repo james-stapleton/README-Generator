@@ -1,10 +1,10 @@
-# Professional README Generator  
-  ![MIT](https://img.shields.io/apm/l/README?style=flat-square);
+#   
+  ![Mozilla](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg);
 
 
 ## Description 
 
-This app automatically creates and formats a clean, well-structured README for your projects. 
+
             
 ## Table of Contents 
             
@@ -15,34 +15,33 @@ This app automatically creates and formats a clean, well-structured README for y
             
 ## Installation
             
-You run it on the command line.
+
             
 ## Usage
             
-Answer these questions
+
             
 ## Credits
 
-No
-    
-## License
-            
-This project is being licensed under MIT. You can read the license here: https://opensource.org/licenses/MIT
+
+                
+## License 
+  This project is being licensed under Mozilla. You can read the license here: https://opensource.org/licenses/MPL-2.0
                         
 ## How to Contribute
 
-Contribute to this app by adding new licenses and badges
+
             
 ## Tests
             
-I don't know enough about testing
+
 
 ## GitHub
 
-[Github](https://github.com/james-stapleton)
+[Github](https://github.com/)
             
 ## Questions
             
-If you have any questions, please email me at jstapleton536 with the subject "Professional README Generator"
+If you have any questions, please email me at  with the subject ""
             
 ## Screenshots
